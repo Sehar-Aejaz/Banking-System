@@ -1,0 +1,14 @@
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.AssemblyInfoInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.AssemblyInfo.cs
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.csproj.CoreCompileInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/bin/Debug/net8.0/AccountClass
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/bin/Debug/net8.0/AccountClass.deps.json
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/bin/Debug/net8.0/AccountClass.runtimeconfig.json
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/bin/Debug/net8.0/AccountClass.dll
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/bin/Debug/net8.0/AccountClass.pdb
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.dll
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/refint/AccountClass.dll
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.pdb
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/AccountClass.genruntimeconfig.cache
+/Users/seharaejaz/Documents/sit771_c#/AccountClass/obj/Debug/net8.0/ref/AccountClass.dll
